@@ -1,0 +1,19 @@
+{
+    "name": "php-achyut/php-com-test",
+    "description": "It's just a composer testing ..",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gitachyut",
+            "email": "linkinakd72@gmail.com"
+        }
+    ],
+    "autoload":
+    	{
+    		"psr-4":
+    		{
+    			"achyut\\php\\": "src"
+    		}
+    },
+    "require": {}
+}
